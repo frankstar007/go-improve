@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b23df96-5e75-4079-9ebe-413f7a9c4f21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/20210415_旋转矩阵.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/20210415_零矩阵.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/20210417_最长公共前缀.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/20210417_最长回文子串.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/loop" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/20210423_实现strStr.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geometry/gemometry.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/geometry/gemometry.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/loop.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/loop.go" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,48 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/fundemo1.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#140#167#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/funcdemo2.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/channelDemo.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-              <folding>
-                <element signature="e#139#164#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/chandemo.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/chan1.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,20 +32,59 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/20210417_最长回文子串.go">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/20210419_翻转字符串里的单词.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="48" selection-end-column="37" />
+            <state relative-caret-position="324">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/go/src/sync/waitgroup.go">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/20210417_最长回文子串.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1764">
-              <caret line="102" column="29" selection-start-line="102" selection-start-column="29" selection-end-line="102" selection-end-column="29" />
+            <state relative-caret-position="380">
+              <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/20210423_实现strStr.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="e#139#167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/go/src/runtime/proc.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="154" selection-start-line="154" selection-end-line="154" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/go/src/runtime/asm_amd64.s">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="521" selection-start-line="521" selection-end-line="521" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/go/src/runtime/panic.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="688" column="42" lean-forward="true" selection-start-line="688" selection-start-column="42" selection-end-line="688" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -170,12 +158,13 @@
         <option value="$PROJECT_DIR$/main/chan1.go" />
         <option value="$PROJECT_DIR$/src/leetcode/20210417_最长公共前缀.go" />
         <option value="$PROJECT_DIR$/src/leetcode/20210417_最长回文子串.go" />
+        <option value="$PROJECT_DIR$/src/leetcode/20210423_实现strStr.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1845" />
-    <option name="y" value="46" />
+    <option name="x" value="2770" />
+    <option name="y" value="-142" />
     <option name="width" value="1600" />
     <option name="height" value="987" />
   </component>
@@ -244,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 20210417_最长回文子串.go">
+  <component name="RunManager" selected="Go Build.go build 20210423_实现strStr.go">
     <configuration name="go build 20210417_最长公共前缀.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <working_directory value="$PROJECT_DIR$" />
@@ -258,6 +247,14 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/src/leetcode/20210417_最长回文子串.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 20210423_实现strStr.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/leetcode/20210423_实现strStr.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -277,21 +274,13 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build channelDemo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="main" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/main/channelDemo.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 20210423_实现strStr.go" />
         <item itemvalue="Go Build.go build 20210417_最长回文子串.go" />
         <item itemvalue="Go Build.go build 20210417_最长公共前缀.go" />
         <item itemvalue="Go Build.go build chan1.go" />
         <item itemvalue="Go Build.go build chandemo.go" />
-        <item itemvalue="Go Build.go build channelDemo.go" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +303,7 @@
     <option name="totallyTimeSpent" value="1818000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1845" y="46" width="1600" height="987" extended-state="0" />
+    <frame x="2770" y="-142" width="1600" height="987" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19383825" />
@@ -391,6 +380,18 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/leetcode/20210423_实现strStr.go</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/leetcode/20210423_实现strStr.go</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -399,13 +400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/runtime/proc.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3942">
-          <caret line="224" column="20" selection-start-line="224" selection-start-column="20" selection-end-line="224" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -492,13 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="35082">
           <caret line="1972" column="54" selection-start-line="1972" selection-start-column="54" selection-end-line="1972" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/runtime/panic.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12096">
-          <caret line="676" column="76" selection-start-line="676" selection-start-column="76" selection-end-line="676" selection-end-column="76" />
         </state>
       </provider>
     </entry>
@@ -656,6 +643,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/20210417_最长回文子串.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/20210417_最长公共前缀.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -663,10 +657,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/20210417_最长回文子串.go">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/20210419_翻转字符串里的单词.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="48" selection-end-column="37" />
+        <state relative-caret-position="324">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/runtime/proc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/runtime/asm_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="521" selection-start-line="521" selection-end-line="521" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="688" column="42" lean-forward="true" selection-start-line="688" selection-start-column="42" selection-end-line="688" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/20210423_实现strStr.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#139#167#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
