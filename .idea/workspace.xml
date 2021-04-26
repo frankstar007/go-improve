@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b23df96-5e75-4079-9ebe-413f7a9c4f21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/20210423_实现strStr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/book/panicdemo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/book/switchdemo.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/chan1.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/20210417_最长公共前缀.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,15 +42,40 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/20210423_实现strStr.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="452">
+              <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
               <folding>
                 <element signature="e#139#167#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/book/switchdemo.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/book/panicdemo.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/20210415_旋转矩阵.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9" />
           </provider>
         </entry>
       </file>
@@ -83,26 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/go/src/runtime/panic.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="688" column="42" lean-forward="true" selection-start-line="688" selection-start-column="42" selection-end-line="688" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/variable.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/go/src/builtin/builtin.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3186">
-              <caret line="177" column="69" selection-start-line="177" selection-start-column="69" selection-end-line="177" selection-end-column="69" />
+            <state relative-caret-position="362">
+              <caret line="691" lean-forward="true" selection-start-line="691" selection-end-line="691" />
             </state>
           </provider>
         </entry>
@@ -159,6 +158,8 @@
         <option value="$PROJECT_DIR$/src/leetcode/20210417_最长公共前缀.go" />
         <option value="$PROJECT_DIR$/src/leetcode/20210417_最长回文子串.go" />
         <option value="$PROJECT_DIR$/src/leetcode/20210423_实现strStr.go" />
+        <option value="$PROJECT_DIR$/src/book/switchdemo.go" />
+        <option value="$PROJECT_DIR$/src/book/panicdemo.go" />
       </list>
     </option>
   </component>
@@ -187,6 +188,12 @@
               <item name="go-improve" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-improve" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-improve" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-improve" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="go-improve" type="b2602c69:ProjectViewProjectNode" />
@@ -233,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 20210423_实现strStr.go">
+  <component name="RunManager" selected="Go Build.go build panicdemo.go">
     <configuration name="go build 20210417_最长公共前缀.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <working_directory value="$PROJECT_DIR$" />
@@ -258,29 +265,29 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build chan1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="main" />
+    <configuration name="go build panicdemo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/main/chan1.go" />
+      <filePath value="$PROJECT_DIR$/src/book/panicdemo.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build chandemo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="main" />
+    <configuration name="go build switchdemo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/main/chandemo.go" />
+      <filePath value="$PROJECT_DIR$/src/book/switchdemo.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build panicdemo.go" />
+        <item itemvalue="Go Build.go build switchdemo.go" />
         <item itemvalue="Go Build.go build 20210423_实现strStr.go" />
         <item itemvalue="Go Build.go build 20210417_最长回文子串.go" />
         <item itemvalue="Go Build.go build 20210417_最长公共前缀.go" />
-        <item itemvalue="Go Build.go build chan1.go" />
-        <item itemvalue="Go Build.go build chandemo.go" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +323,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32849163" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39664805" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39664805" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -678,20 +685,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/go/src/runtime/panic.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="688" column="42" lean-forward="true" selection-start-line="688" selection-start-column="42" selection-end-line="688" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/20210423_实现strStr.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="452">
+          <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
           <folding>
             <element signature="e#139#167#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/20210415_旋转矩阵.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/book/switchdemo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="691" lean-forward="true" selection-start-line="691" selection-end-line="691" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/book/panicdemo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
