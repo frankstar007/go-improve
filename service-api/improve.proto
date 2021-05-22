@@ -1,0 +1,78 @@
+
+syntax = "proto3";
+
+//包
+option go_package = "github.com/frankstar007/improve/go-improve/service-api/user";
+
+
+
+
+
+service User{
+
+    //普通调用 A-B
+    rpc GetUser(UserRequest) returns (UserResponse) {}
+
+    //单向流A-B(流)
+    rpc UserView(UserViewRequest) returns (UserViewResponse) {}
+
+    //单向流 A(流）-B
+    rpc UserPost(UserPostRequest) returns (UserPostResponse) {}
+
+    //双向流
+    rpc UserDelete(UserDeleteRequest) returns (UserDeleteResponse) {}
+}
+
+enum EnumUserSex {
+    SEX_INIT = 0;//初始化类型
+    SEX_MALE = 1;
+    SEX_FEMALE = 2;
+}
+
+//用户实体对象
+message UserModel {
+
+    string name = 1;
+    int32 age = 2;
+
+}
+
+message UserRequest {
+    int32 page = 1;
+    int32  page_size = 2;
+}
+
+message UserResponse {
+    int32 err = 1;
+    string msg = 2;
+    repeated UserModel data = 3;
+}
+
+message UserViewRequest {
+    int32 uid = 1;
+}
+
+message UserViewResponse {
+    int32 err = 1;
+    string msg = 2;
+    UserModel data = 3;
+}
+
+message UserPostRequest {
+    int32 uid = 1;
+}
+
+message UserPostResponse {
+    int32 err = 1;
+    string msg = 2;
+}
+
+message UserDeleteRequest {
+    int32 uid = 1;
+}
+
+message UserDeleteResponse {
+    int32 err = 1;
+    string msg = 2;
+}
+
