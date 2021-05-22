@@ -7,7 +7,7 @@
 */
 
 
-package main
+package basic
 
 import (
 	"errors"

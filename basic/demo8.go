@@ -6,7 +6,7 @@
  * @Desc: 
 */
 
-package main
+package basic
 
 import "fmt"
 
