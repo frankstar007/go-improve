@@ -10,13 +10,16 @@
 package main
 
 import (
-
 	"fmt"
-	"github.com/frankstar007/go-improve/functions"
+	"github.com/frankstar007/go-improve/mysql"
+
 )
 
 func main()  {
 	fmt.Println("start go")
 
-	functions.Limit()
+	//functions.Limit()
+
+	var u = mysql.Select(1)
+	fmt.Println(u)
 }
